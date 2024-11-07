@@ -1,6 +1,7 @@
 # Multi-label
 NLP、Attention、BERT
-![3b459526b999a8dc42574fd45307ccc](https://github.com/user-attachments/assets/52485bfc-b3a0-4d6c-b0e8-242a55b3ba7e)
+![image](https://github.com/user-attachments/assets/d791027a-0764-4e46-9a9e-c04b2f79edd4)
+
 # GoEmotions
 
 **GoEmotions** is a corpus of 58k carefully curated comments extracted from Reddit,
