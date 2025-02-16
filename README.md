@@ -29,7 +29,7 @@ This directory includes the data and code for data analysis scripts. We also
 include code for our baseline model, which involves fine-tuning a pre-trained
 [BERT-base model](https://github.com/google-research/bert).
 
-For more details on the design and content of the dataset, please see our
+For more details on the design and content of the dataset, please see
 [paper](https://arxiv.org/abs/2005.00547).
 
 Refer to our [GoEmotions Model Card](goemotions_model_card.pdf) for recommended
