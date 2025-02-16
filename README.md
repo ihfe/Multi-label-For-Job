@@ -1,5 +1,5 @@
 # Multi-label
-NLP、Attention、BERT
+主要技术：NLP、Attention、BERT
 
 ![image](https://github.com/user-attachments/assets/d791027a-0764-4e46-9a9e-c04b2f79edd4)
 
