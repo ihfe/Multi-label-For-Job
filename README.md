@@ -1,5 +1,6 @@
-# Multi-label
-主要技术：NLP、Attention、BERT
+# Multi-label-BERT
+(用英语先大致记录一下项目和相关草图，有时间再改成中文版)
+Main tech：NLP、Attention、BERT
 
 ![image](https://github.com/user-attachments/assets/d791027a-0764-4e46-9a9e-c04b2f79edd4)
 
